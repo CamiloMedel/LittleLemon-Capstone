@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LittleLemon-Capstone/static/css/main.b7493ec4.css",
+    "main.js": "/LittleLemon-Capstone/static/js/main.e0470df0.js",
+    "static/js/453.99c1801e.chunk.js": "/LittleLemon-Capstone/static/js/453.99c1801e.chunk.js",
+    "static/media/Mario and Adrian A.jpg": "/LittleLemon-Capstone/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
+    "static/media/greek salad.jpg": "/LittleLemon-Capstone/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restaurantfood.jpg": "/LittleLemon-Capstone/static/media/restaurantfood.e8abf5b772b6817189aa.jpg",
+    "static/media/emma portrait.jpg": "/LittleLemon-Capstone/static/media/emma portrait.14e3ccc2c0c563f20a26.jpg",
+    "static/media/mark portrait.jpg": "/LittleLemon-Capstone/static/media/mark portrait.a02beeeb69d05cc33cc5.jpg",
+    "static/media/john portrait.jpg": "/LittleLemon-Capstone/static/media/john portrait.c122d6742a4946e93dae.jpg",
+    "static/media/Asset 9@4x.png": "/LittleLemon-Capstone/static/media/Asset 9@4x.ece5abbfbd1079e047b0.png",
+    "static/media/Asset 20@4x.png": "/LittleLemon-Capstone/static/media/Asset 20@4x.2c859235d6c57bb54176.png",
+    "static/media/bruchetta.JPG": "/LittleLemon-Capstone/static/media/bruchetta.1d90bd4bf16ed4e8f5dc.JPG",
+    "static/media/Logo 16@4x.png": "/LittleLemon-Capstone/static/media/Logo 16@4x.d4cae6fac8384c2dae04.png",
+    "static/media/Asset 7@4x.png": "/LittleLemon-Capstone/static/media/Asset 7@4x.30ccbb6d474a3cef7f9b.png",
+    "index.html": "/LittleLemon-Capstone/index.html",
+    "main.b7493ec4.css.map": "/LittleLemon-Capstone/static/css/main.b7493ec4.css.map",
+    "main.e0470df0.js.map": "/LittleLemon-Capstone/static/js/main.e0470df0.js.map",
+    "453.99c1801e.chunk.js.map": "/LittleLemon-Capstone/static/js/453.99c1801e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7493ec4.css",
+    "static/js/main.e0470df0.js"
+  ]
+}
